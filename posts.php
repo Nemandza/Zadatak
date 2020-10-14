@@ -50,8 +50,6 @@ include('header.php');
                         </div>
                         
                     </article>
-                <?php }
-                 include('sidebar.php');
-                include('footer.php');
-               
-                ?>
+                <?php } ?>
+
+                
