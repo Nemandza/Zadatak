@@ -15,6 +15,8 @@
 
             ?>
 
+
+
 <?php 
 include('header.php');
 
@@ -35,6 +37,8 @@ include('header.php');
                         </div>
                         
                     </article>
-                <?php } ?>
+                <?php } 
+                
+                include('footer.php')   ?>
 
                 
